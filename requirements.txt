@@ -1,0 +1,9 @@
+fire
+flashrank==0.2.9
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-chroma
+langchain-core
+langchain-openai==0.2.6
+langchain-text-splitters==0.3.2
+python-dotenv
