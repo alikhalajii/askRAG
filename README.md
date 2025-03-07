@@ -10,7 +10,7 @@ With `askRAG`, you can use advanced techniques like **Query Rewriting** and **Re
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/askRAG.git
+git clone https://github.com/alikhalajii/askRAG.git
 cd askRAG
 ```
 
